@@ -23,3 +23,6 @@ numpy
 pandas
 pyaadhaar
 pyzbar
+imutils
+isdangerous
+paddlepaddle
